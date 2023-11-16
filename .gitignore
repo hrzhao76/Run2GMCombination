@@ -1,0 +1,6 @@
+.asetup.save
+.vscode 
+dev/
+*.log
+test*
+

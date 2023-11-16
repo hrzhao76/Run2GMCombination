@@ -1,0 +1,140 @@
+Systematic: "Theory_WZQCD_pdf_VBFMVACR"
+  Title: "Theory_WZQCD_pdf_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZQCD_pdf_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_WZQCD_pdf_VBFMVACR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  DropNorm: all 
+
+Systematic: "Theory_WZQCD_pdf_VBFMVASR"
+  Title: "Theory_WZQCD_pdf_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZQCD_pdf_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_WZQCD_pdf_VBFMVASR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  DropNorm: all 
+
+Systematic: "Theory_WZQCD_ps2_VBFMVACR"
+  Title: "Theory_WZQCD_ps2_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZQCD_ps2_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_WZQCD_ps2_VBFMVACR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  DropNorm: all 
+
+Systematic: "Theory_WZQCD_ps2_VBFMVASR"
+  Title: "Theory_WZQCD_ps2_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZQCD_ps2_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_WZQCD_ps2_VBFMVASR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  DropNorm: all 
+
+Systematic: "Theory_WZQCD_scale_VBFMVACR"
+  Title: "Theory_WZQCD_scale_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZQCD_scale_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_WZQCD_scale_VBFMVACR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  DropNorm: all 
+
+Systematic: "Theory_WZQCD_scale_VBFMVASR"
+  Title: "Theory_WZQCD_scale_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZQCD_scale_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_WZQCD_scale_VBFMVASR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  DropNorm: all 
+
+Systematic: "Theory_WZEW_pdf_VBFMVACR"
+  Title: "Theory_WZEW_pdf_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZEW_pdf_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_WZEW_pdf_VBFMVACR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  Symmetrisation: TWOSIDED 
+
+Systematic: "Theory_WZEW_pdf_VBFMVASR"
+  Title: "Theory_WZEW_pdf_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZEW_pdf_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_WZEW_pdf_VBFMVASR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  Symmetrisation: TWOSIDED 
+
+Systematic: "Theory_WZEW_ps2_VBFMVACR"
+  Title: "Theory_WZEW_ps2_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZEW_ps2_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_WZEW_ps2_VBFMVACR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  Symmetrisation: TWOSIDED 
+
+Systematic: "Theory_WZEW_ps2_VBFMVASR"
+  Title: "Theory_WZEW_ps2_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZEW_ps2_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_WZEW_ps2_VBFMVASR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  Symmetrisation: TWOSIDED 
+
+Systematic: "Theory_WZEW_scale_VBFMVACR"
+  Title: "Theory_WZEW_scale_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZEW_scale_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_WZEW_scale_VBFMVACR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  Symmetrisation: TWOSIDED 
+
+Systematic: "Theory_WZEW_scale_VBFMVASR"
+  Title: "Theory_WZEW_scale_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_WZEW_scale_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_WZEW_scale_VBFMVASR__1down"
+  Category: Theory 
+  Smoothing: 40 
+  Symmetrisation: TWOSIDED 
+
+Systematic: "Theory_ZZ_pdf_VBFMVACR"
+  Title: "Theory_ZZ_pdf_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_ZZ_pdf_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_ZZ_pdf_VBFMVACR__1down"
+  Category: Theory 
+  DropNorm: all 
+
+Systematic: "Theory_ZZ_pdf_VBFMVASR"
+  Title: "Theory_ZZ_pdf_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_ZZ_pdf_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_ZZ_pdf_VBFMVASR__1down"
+  Category: Theory 
+  DropNorm: all 
+
+Systematic: "Theory_ZZ_scale_VBFMVACR"
+  Title: "Theory_ZZ_scale_VBFMVACR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_ZZ_scale_VBFMVACR__1up"
+  HistoNameSufDown: "_Theory_ZZ_scale_VBFMVACR__1down"
+  Category: Theory 
+  DropNorm: all 
+
+Systematic: "Theory_ZZ_scale_VBFMVASR"
+  Title: "Theory_ZZ_scale_VBFMVASR"
+  Type: HISTO 
+  HistoNameSufUp: "_Theory_ZZ_scale_VBFMVASR__1up"
+  HistoNameSufDown: "_Theory_ZZ_scale_VBFMVASR__1down"
+  Category: Theory 
+  DropNorm: all 
+
